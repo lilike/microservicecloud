@@ -1,0 +1,7 @@
+#server:
+#  port: 3355
+# 不需要配置服务端口,因为服务配置端口是从configer-server中fetch下来的.
+
+spring:
+  application:
+    name: microservicecloud-config-client
